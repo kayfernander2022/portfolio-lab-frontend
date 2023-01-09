@@ -1,4 +1,4 @@
-// BASE URL OF OUR DEPLOYED API
+
 // BASE URL OF OUR DEPLOYED API
 const URL = "https://portfolio-lab.onrender.com"
 
