@@ -1,5 +1,8 @@
 function Home(props) {
-  return <h1>Home</h1>;
+  return<>
+  <h1>KAREN FERNANDER</h1>
+  <p>SOFTWARE ENGINEER & APP DEVELOPER</p>
+  </>
 }
 
 export default Home;
